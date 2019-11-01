@@ -1,0 +1,13 @@
+D:\Files\Source Visual\GraphTheory\bin\Debug\GraphTheory.exe.config
+D:\Files\Source Visual\GraphTheory\bin\Debug\GraphTheory.exe
+D:\Files\Source Visual\GraphTheory\bin\Debug\GraphTheory.pdb
+D:\Files\Source Visual\GraphTheory\obj\Debug\GraphTheory.csprojAssemblyReference.cache
+D:\Files\Source Visual\GraphTheory\obj\Debug\GraphTheory.csproj.CoreCompileInputs.cache
+D:\Files\Source Visual\GraphTheory\obj\Debug\GraphTheory.exe
+D:\Files\Source Visual\GraphTheory\obj\Debug\GraphTheory.pdb
+D:\Srouce Code\Source Visual\GraphTheory\obj\Debug\GraphTheory.csprojAssemblyReference.cache
+D:\Srouce Code\Source Visual\GraphTheory\obj\Debug\GraphTheory.exe
+D:\Srouce Code\Source Visual\GraphTheory\obj\Debug\GraphTheory.pdb
+D:\Srouce Code\Source Visual\GraphTheory\bin\Debug\GraphTheory.exe.config
+D:\Srouce Code\Source Visual\GraphTheory\bin\Debug\GraphTheory.exe
+D:\Srouce Code\Source Visual\GraphTheory\bin\Debug\GraphTheory.pdb
